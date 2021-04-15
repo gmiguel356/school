@@ -1,2 +1,2 @@
-# school
+# <cstring>
 Stuff for school
